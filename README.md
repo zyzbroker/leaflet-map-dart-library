@@ -1,4 +1,4 @@
-= Leaflet Map in Dart
+# Leaflet Map in Dart
 
 This dart library is ported from Leaflet javascript library. This library has the following features:
 
@@ -6,3 +6,7 @@ This dart library is ported from Leaflet javascript library. This library has th
 - drag around
 - marker support
 - marker click event support
+
+## Demo application
+
+![DemoApp](/web/assets/images/leaflet_map_demo.png)
