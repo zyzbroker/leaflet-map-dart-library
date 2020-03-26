@@ -1,0 +1,28 @@
+#mapContainer {
+    height: calc(100vh - 20px);
+    border: 1px solid #ddd;
+
+    .rst-div-icon {
+        border: 0;
+        background: transparent;
+    }
+
+    .rst-div-icon svg {
+        margin-left: -10px;
+        margin-top: -38px;
+    }
+
+    .rst-div-icon svg>g>text {
+        font-size: 24px;
+        fill: rgba(0, 0, 0, 0.81);
+        font-style: normal;
+        font-variant: normal;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 125%;
+        text-align: center;
+        word-spacing: 0px;
+        fill-opacity: 1;
+        stroke-opacity: 1;
+    }
+}

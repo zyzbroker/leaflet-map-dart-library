@@ -1,0 +1,24 @@
+name: leaflet
+description: Leaflet port to Dart
+version: 0.0.1
+author: David Zhao <david.zhao@resentek.com>
+
+environment:
+  sdk: ">=2.0.0-dev <3.0.0"
+
+dependencies:
+  tuple: any
+  quiver: any
+
+dependency_overrides:
+  web_socket_channel: ^1.0.14
+
+dev_dependencies:
+  build_runner: ^1.6.9
+  path: "^1.6.2"
+  front_end: "^0.1.2"
+  build_test: ^0.10.8
+  build_web_compilers: ^2.8.0
+  collection: "^1.14.11"
+  test: any
+  sass_builder: any
