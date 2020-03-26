@@ -7,6 +7,11 @@ This dart library is ported from Leaflet javascript library. This library has th
 - marker support
 - marker click event support
 
+## Build And Run
+
+- webdev build
+- webdev serve
+
 ## Demo application
 
 ![DemoApp](/web/assets/images/leaflet_map_demo.png)
