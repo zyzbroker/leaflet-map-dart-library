@@ -1,5 +1,5 @@
-name: leaflet
-description: Leaflet port to Dart
+name: leaflet_dart
+description: Leaflet Map port to Dart
 version: 0.0.1
 author: David Zhao <david.zhao@resentek.com>
 
