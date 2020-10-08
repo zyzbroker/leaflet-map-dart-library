@@ -1,10 +1,10 @@
 import 'dart:html';
 
 import 'package:quiver/strings.dart' as str;
-import 'package:leaflet/src/utility/dom.dart' as dom;
-import 'package:leaflet/src/lmap.dart';
-import 'package:leaflet/src/controls/control.dart';
-import 'package:leaflet/src/layers/layer.dart';
+import 'package:leaflet_map/src/utility/dom.dart' as dom;
+import 'package:leaflet_map/src/lmap.dart';
+import 'package:leaflet_map/src/controls/control.dart';
+import 'package:leaflet_map/src/layers/layer.dart';
 
 class Attribution extends Control {
   List<String> _attributions;

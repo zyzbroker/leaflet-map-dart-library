@@ -1,6 +1,6 @@
 import 'dart:html';
 import 'dart:async';
-import 'package:leaflet/src/base/point.dart' as p;
+import 'package:leaflet_map/src/base/point.dart' as p;
 
 class ImageTile {
   HtmlElement element;

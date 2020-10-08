@@ -1,9 +1,9 @@
 
-import 'package:leaflet/src/lmap.dart';
+import 'package:leaflet_map/src/lmap.dart';
 import 'layer.dart';
-import 'package:leaflet/src/base/evented.dart';
+import 'package:leaflet_map/src/base/evented.dart';
 import 'layer_options.dart';
-import 'package:leaflet/src/layers/grid_layer.dart';
+import 'package:leaflet_map/src/layers/grid_layer.dart';
 
 class LayerGroup extends Layer {
   Map<String, Layer> _layers;

@@ -3,9 +3,9 @@ import 'dart:math' as math;
 import 'package:quiver/strings.dart' as str;
 
 import 'lmap.dart';
-import 'package:leaflet/src/base/evented.dart';
-import 'package:leaflet/src/layers/layer.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/base/evented.dart';
+import 'package:leaflet_map/src/layers/layer.dart';
+import 'package:leaflet_map/src/utility/helper.dart' as h;
 
 
 typedef LayerHandlerFunc(dynamic context, Layer self);

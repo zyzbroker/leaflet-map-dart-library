@@ -1,7 +1,7 @@
 import 'dart:math' as math;
-import 'package:leaflet/src/utility/helper.dart' as h;
-import 'package:leaflet/src/base/earth.dart';
-//import 'package:leaflet/src/base/latlng_bounds.dart';
+import 'package:leaflet_map/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/base/earth.dart';
+//import 'package:leaflet_map/src/base/latlng_bounds.dart';
 
 class LatLng {
   num lat;

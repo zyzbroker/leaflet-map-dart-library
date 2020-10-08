@@ -1,5 +1,5 @@
-import 'package:leaflet/src/base/latlng_bounds.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/base/latlng_bounds.dart';
+import 'package:leaflet_map/src/utility/helper.dart' as h;
 
 class LayerOptions {
   String attribution;

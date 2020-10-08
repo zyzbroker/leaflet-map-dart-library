@@ -6,7 +6,7 @@ import 'point.dart';
 import 'bounds.dart';
 import 'transformation.dart';
 import 'projection.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/utility/helper.dart' as h;
 import 'latlng_bounds.dart';
 
 

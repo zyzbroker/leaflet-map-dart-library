@@ -1,9 +1,9 @@
 import 'dart:html';
 import 'grid_layer.dart';
 import 'layer_options.dart';
-import 'package:leaflet/src/base/point.dart' as p;
-import 'package:leaflet/src/utility/helper.dart' as h;
-//import 'package:leaflet/src/base/evented.dart';
+import 'package:leaflet_map/src/base/point.dart' as p;
+import 'package:leaflet_map/src/utility/helper.dart' as h;
+//import 'package:leaflet_map/src/base/evented.dart';
 
 
 class TileLayer extends GridLayer {

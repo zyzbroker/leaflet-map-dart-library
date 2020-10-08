@@ -6,18 +6,18 @@ import 'package:quiver/strings.dart' as str;
 import 'package:tuple/tuple.dart';
 
 import 'layer.dart';
-import 'package:leaflet/src/base/latlng.dart';
+import 'package:leaflet_map/src/base/latlng.dart';
 import 'layer_options.dart';
-import 'package:leaflet/src/base/point.dart' as p;
-import 'package:leaflet/src/base/latlng_bounds.dart';
+import 'package:leaflet_map/src/base/point.dart' as p;
+import 'package:leaflet_map/src/base/latlng_bounds.dart';
 import 'image_tile.dart';
 import 'image_level.dart';
-import 'package:leaflet/src/base/bounds.dart';
-import 'package:leaflet/src/lmap.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
-import 'package:leaflet/src/utility/dom.dart' as dom;
-import 'package:leaflet/src/base/evented.dart';
-import 'package:leaflet/src/utility/throttle.dart' as t;
+import 'package:leaflet_map/src/base/bounds.dart';
+import 'package:leaflet_map/src/lmap.dart';
+import 'package:leaflet_map/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/utility/dom.dart' as dom;
+import 'package:leaflet_map/src/base/evented.dart';
+import 'package:leaflet_map/src/utility/throttle.dart' as t;
 
 typedef T MathMaxMinFunc<T extends num>(T a, T b);
 

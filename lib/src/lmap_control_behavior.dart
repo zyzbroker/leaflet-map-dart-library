@@ -1,8 +1,8 @@
 import 'dart:html';
 
-import 'package:leaflet/src/utility/dom.dart' as dom;
+import 'package:leaflet_map/src/utility/dom.dart' as dom;
 import 'lmap.dart';
-import 'package:leaflet/src/controls/index.dart';
+import 'package:leaflet_map/src/controls/index.dart';
 
 
 abstract class LMapControlBehavior{

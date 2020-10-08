@@ -3,7 +3,7 @@ import 'dart:html';
 import 'icon.dart';
 import 'icon_options.dart';
 import 'point.dart' as p;
-import 'package:leaflet/src/utility/dom.dart' as dom;
+import 'package:leaflet_map/src/utility/dom.dart' as dom;
 
 class DivIcon extends Icon {
 

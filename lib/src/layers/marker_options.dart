@@ -1,6 +1,6 @@
 import 'layer_options.dart';
-import 'package:leaflet/src/base/icon.dart';
-import 'package:leaflet/src/base/icon_default.dart';
+import 'package:leaflet_map/src/base/icon.dart';
+import 'package:leaflet_map/src/base/icon_default.dart';
 import 'package:tuple/tuple.dart';
 
 class MarkerOptions extends LayerOptions {

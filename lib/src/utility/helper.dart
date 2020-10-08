@@ -4,11 +4,11 @@ import 'dart:async';
 
 import 'package:quiver/strings.dart' as q;
 import 'package:tuple/tuple.dart';
-import 'package:leaflet/src/base/latlng_bounds.dart';
+import 'package:leaflet_map/src/base/latlng_bounds.dart';
 
 import 'dom.dart';
-import 'package:leaflet/src/base/latlng.dart';
-import 'package:leaflet/src/base/point.dart' as p;
+import 'package:leaflet_map/src/base/latlng.dart';
+import 'package:leaflet_map/src/base/point.dart' as p;
 
 typedef FuncDefinition([dynamic arguments]);
 

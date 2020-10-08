@@ -1,6 +1,6 @@
-name: leaflet
+name: leaflet_map
 description: Leaflet Map ported to Dart
-version: 0.0.2
+version: 0.0.1
 homepage: https://github.com/zyzbroker/leaflet-map-dart-library
 
 environment:

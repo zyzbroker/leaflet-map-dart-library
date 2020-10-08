@@ -1,9 +1,9 @@
-import 'package:leaflet/src/base/crs.dart';
-import 'package:leaflet/src/base/epsg3857.dart';
-import 'package:leaflet/src/base/point.dart';
-import 'package:leaflet/src/layers/layer.dart';
-import 'package:leaflet/src/base/latlng_bounds.dart';
-import 'package:leaflet/src/base/renderer.dart';
+import 'package:leaflet_map/src/base/crs.dart';
+import 'package:leaflet_map/src/base/epsg3857.dart';
+import 'package:leaflet_map/src/base/point.dart';
+import 'package:leaflet_map/src/layers/layer.dart';
+import 'package:leaflet_map/src/base/latlng_bounds.dart';
+import 'package:leaflet_map/src/base/renderer.dart';
 
 class LMapOptions {
   final CRS crs;

@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 
-import 'package:leaflet/src/base/latlng.dart';
+import 'package:leaflet_map/src/base/latlng.dart';
 
 import 'point.dart' as p;
 import 'bounds.dart';

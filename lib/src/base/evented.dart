@@ -1,4 +1,4 @@
-import 'package:leaflet/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/utility/helper.dart' as h;
 
 typedef void EventFunc([dynamic context, AppEvent appEvent]);
 

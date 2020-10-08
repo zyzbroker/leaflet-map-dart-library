@@ -1,9 +1,9 @@
 import 'dart:html';
 
-import 'package:leaflet/src/utility/dom.dart' as dom;
-import 'package:leaflet/src/base/point.dart' as p;
-import 'package:leaflet/src/base/icon_options.dart';
-import 'package:leaflet/src/base/icon.dart';
+import 'package:leaflet_map/src/utility/dom.dart' as dom;
+import 'package:leaflet_map/src/base/point.dart' as p;
+import 'package:leaflet_map/src/base/icon_options.dart';
+import 'package:leaflet_map/src/base/icon.dart';
 import 'svg_node_validator.dart';
 
 class IndexedSvgIcon extends Icon {

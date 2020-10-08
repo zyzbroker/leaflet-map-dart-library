@@ -392,7 +392,7 @@ packages:
       name: sass
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.26.12"
+    version: "1.27.0"
   sass_builder:
     dependency: "direct dev"
     description:

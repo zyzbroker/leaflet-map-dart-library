@@ -1,4 +1,4 @@
-import 'package:leaflet/src/lmap.dart';
+import 'package:leaflet_map/src/lmap.dart';
 
 abstract class Handler {
   bool _enabled = false;

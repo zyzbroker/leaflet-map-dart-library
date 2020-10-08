@@ -5,12 +5,12 @@ import 'package:quiver/strings.dart' as str;
 
 import 'marker_options.dart';
 import 'layer.dart';
-import 'package:leaflet/src/base/latlng.dart';
-import 'package:leaflet/src/base/point.dart' as p;
-import 'package:leaflet/src/base/icon.dart';
-import 'package:leaflet/src/base/evented.dart';
-import 'package:leaflet/src/lmap.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/base/latlng.dart';
+import 'package:leaflet_map/src/base/point.dart' as p;
+import 'package:leaflet_map/src/base/icon.dart';
+import 'package:leaflet_map/src/base/evented.dart';
+import 'package:leaflet_map/src/lmap.dart';
+import 'package:leaflet_map/src/utility/helper.dart' as h;
 
 typedef void OnMarkerClick(dynamic customData);
 

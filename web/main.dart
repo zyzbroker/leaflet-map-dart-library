@@ -1,11 +1,11 @@
-import 'package:leaflet/src/lmap.dart';
-import 'package:leaflet/src/lmap_options.dart';
-import 'package:leaflet/src/layers/tile_layer.dart';
-import 'package:leaflet/src/layers/layer_options.dart';
-import 'package:leaflet/src/layers/marker.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
-import 'package:leaflet/icons.dart';
-import 'package:leaflet/src/controls/zoom.dart';
+import 'package:leaflet_map/src/lmap.dart';
+import 'package:leaflet_map/src/lmap_options.dart';
+import 'package:leaflet_map/src/layers/tile_layer.dart';
+import 'package:leaflet_map/src/layers/layer_options.dart';
+import 'package:leaflet_map/src/layers/marker.dart';
+import 'package:leaflet_map/src/utility/helper.dart' as h;
+import 'package:leaflet_map/icons.dart';
+import 'package:leaflet_map/src/controls/zoom.dart';
 
 main() {
   LMap map = new LMap('#mapContainer', new LMapOptions()

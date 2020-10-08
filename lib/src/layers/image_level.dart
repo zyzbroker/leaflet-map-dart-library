@@ -1,6 +1,6 @@
 import 'dart:html';
 
-import 'package:leaflet/src/base/point.dart' as p;
+import 'package:leaflet_map/src/base/point.dart' as p;
 
 class ImageLevel {
   HtmlElement element;

@@ -2,9 +2,9 @@ import 'dart:html';
 import 'package:quiver/strings.dart' as str;
 
 import 'layer_options.dart';
-import 'package:leaflet/src/lmap.dart';
-import 'package:leaflet/src/base/evented.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/lmap.dart';
+import 'package:leaflet_map/src/base/evented.dart';
+import 'package:leaflet_map/src/utility/helper.dart' as h;
 
 abstract class Layer extends Evented {
   LMap map;

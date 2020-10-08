@@ -3,7 +3,7 @@ import 'dart:html';
 import 'package:quiver/strings.dart' as str;
 
 import 'icon_options.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/utility/helper.dart' as h;
 import 'point.dart' as p;
 
 class Icon {

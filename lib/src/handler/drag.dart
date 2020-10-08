@@ -1,13 +1,13 @@
 import 'dart:math' as math;
 
 import 'handler.dart';
-import 'package:leaflet/src/base/draggable.dart';
-import 'package:leaflet/src/lmap.dart';
-import 'package:leaflet/src/lmap_options.dart';
-import 'package:leaflet/src/base/evented.dart';
-import 'package:leaflet/src/utility/helper.dart' as h;
-import 'package:leaflet/src/base/point.dart' as p;
-import 'package:leaflet/src/base/bounds.dart';
+import 'package:leaflet_map/src/base/draggable.dart';
+import 'package:leaflet_map/src/lmap.dart';
+import 'package:leaflet_map/src/lmap_options.dart';
+import 'package:leaflet_map/src/base/evented.dart';
+import 'package:leaflet_map/src/utility/helper.dart' as h;
+import 'package:leaflet_map/src/base/point.dart' as p;
+import 'package:leaflet_map/src/base/bounds.dart';
 
 class Drag extends Handler {
   Draggable _draggable;

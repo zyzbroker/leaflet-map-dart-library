@@ -1,7 +1,7 @@
 import 'crs.dart';
 import 'dart:math' as math;
 import 'package:tuple/tuple.dart';
-import 'package:leaflet/src/base/latlng.dart';
+import 'package:leaflet_map/src/base/latlng.dart';
 
 class Earth extends CRS {
 
