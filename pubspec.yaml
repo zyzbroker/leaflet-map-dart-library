@@ -1,8 +1,7 @@
-name: leaflet_dart
+name: leaflet
 description: Leaflet Map port to Dart
 version: 0.0.1
-author: David Zhao <david.zhao@resentek.com>
-homepage: https://github.com/zyzbroker/HandlebarDart
+homepage: https://github.com/zyzbroker/leaflet-map-dart-library
 
 environment:
   sdk: ">=2.0.0 <3.0.0"
