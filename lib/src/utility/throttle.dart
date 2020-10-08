@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:leaflet/src/utility/helper.dart' as h;
+//import 'package:leaflet/src/utility/helper.dart' as h;
 import 'package:leaflet/src/base/evented.dart';
 
 class Throttle {

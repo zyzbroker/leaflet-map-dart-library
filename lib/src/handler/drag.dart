@@ -53,7 +53,7 @@ class Drag extends Handler {
     h.removeClass(this.map.container, 'leaflet-touch-drag');
   }
 
-  bool get _moved => this._draggable != null && this._draggable.moved;
+ // bool get _moved => this._draggable != null && this._draggable.moved;
 
   bool get _moving => this._draggable != null && this._draggable.moving;
 

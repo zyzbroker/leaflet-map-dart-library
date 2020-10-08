@@ -105,7 +105,7 @@ packages:
       name: build_test
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.10.12+1"
+    version: "1.2.2"
   build_web_compilers:
     dependency: "direct dev"
     description:
@@ -211,13 +211,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.10.11"
-  front_end:
-    dependency: "direct dev"
-    description:
-      name: front_end
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.28"
   glob:
     dependency: transitive
     description:
@@ -281,13 +274,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.0"
-  kernel:
-    dependency: transitive
-    description:
-      name: kernel
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.3.28"
   logging:
     dependency: transitive
     description:
